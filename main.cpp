@@ -22,7 +22,7 @@ int main(){
 	int time;
 
 
-
+    //petla for
 	for (int i = 1000; i < MAX; i +=50) {
 		time = rand() % 1000 + 10;
 		sound = rand() % 3000 + 1000;
